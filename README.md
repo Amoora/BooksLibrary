@@ -1,2 +1,2 @@
 # BooksLibrary
-An Application on how to pass data from Google Books Api 
+Simple Android App that feth Data from Google Boks API
